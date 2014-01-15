@@ -13,7 +13,7 @@ module.exports = (grunt) ->
     coffee:
       dist:
         options:
-          bare: false
+          bare: true
           expand: true
           flatten: true
         files:
