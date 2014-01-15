@@ -1,0 +1,26 @@
+{
+  "name": "LittleCacheJs",
+  "version": "1.0.0",
+  "description": "Simple cache manager for your javascript application",
+  "author": "Steven Titren <contact@webaki.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlYos/LitleCacheJs.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/flyos/litlecachejs/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/flyos/litlecachejs/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-banner": "~0.2.0",
+    "grunt-coffeelint": "0.0.8"
+  }
+}
